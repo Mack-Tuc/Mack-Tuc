@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
+Por el momento esta cuenta es solo de practica mientras aprendo a usar Git y Github.
 <!--
 **Mack-Tuc/Mack-Tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
