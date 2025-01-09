@@ -2,7 +2,7 @@
 
 Por el momento esta cuenta es solo de practica mientras aprendo a usar Git y Github.
 
-![Black-Racer](https://github.com/user-attachments/assets/0f1b06c0-ab45-4567-8e8f-f41ecc78b52c)
+![culebrapardadeagua](https://github.com/user-attachments/assets/76e76c86-8358-406f-8c1d-80c8816156b4)
 
 <!--
 **Mack-Tuc/Mack-Tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
