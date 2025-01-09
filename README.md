@@ -1,10 +1,14 @@
 ## Hola 👋
 
 Por el momento esta cuenta es solo de practica mientras aprendo a usar Git y Github.
+
+![Black-Racer](https://github.com/user-attachments/assets/0f1b06c0-ab45-4567-8e8f-f41ecc78b52c)
+
 <!--
 **Mack-Tuc/Mack-Tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here ![Black-Racer](https://github.com/user-attachments/assets/0f1b06c0-ab45-4567-8e8f-f41ecc78b52c)
+are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
